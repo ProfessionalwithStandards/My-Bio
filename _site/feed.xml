@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Bio</title>
+    <description>A brief about Hraday Vaidya</description>
+    <link>https://professionalwithstandards.github.io/</link>
+    <atom:link href="https://professionalwithstandards.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 15 Mar 2021 19:51:57 +0530</pubDate>
+    <lastBuildDate>Mon, 15 Mar 2021 19:51:57 +0530</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Project integrated with AI</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
+        <link>https://professionalwithstandards.github.io/web%20app/2020/01/01/project-3/</link>
+        <guid isPermaLink="true">https://professionalwithstandards.github.io/web%20app/2020/01/01/project-3/</guid>
+        
+        
+        <category>Web App</category>
+        
+      </item>
+    
+      <item>
+        <title>Moderation Bot</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+        <link>https://professionalwithstandards.github.io/web%20development/2019/01/01/project-2/</link>
+        <guid isPermaLink="true">https://professionalwithstandards.github.io/web%20development/2019/01/01/project-2/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Bot</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+        <link>https://professionalwithstandards.github.io/android%20application/2019/01/01/project-1/</link>
+        <guid isPermaLink="true">https://professionalwithstandards.github.io/android%20application/2019/01/01/project-1/</guid>
+        
+        
+        <category>Android Application</category>
+        
+      </item>
+    
+  </channel>
+</rss>

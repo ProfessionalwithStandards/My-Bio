@@ -1,0 +1,15 @@
+---
+title: Bot
+subtitle: Assistant Bot
+layout: default
+modal-id: 1
+date: 2019-1-1
+img: Bot.png
+thumbnail: Bot.png
+alt: image-alt
+project-date: January 2019
+
+category: Android Application
+description: An assistant bot not as great as Google though. 👀
+
+---

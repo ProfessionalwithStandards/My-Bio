@@ -1,0 +1,27 @@
+url: "https://professionalwithstandards.github.io"
+baseurl: ""
+
+# Site settings
+title: My Bio
+email: Mysticism.occult@gmail.com
+description: "A brief about Hraday Vaidya"
+
+
+# Team names, titles and social links
+people:
+- name:   
+  pic: 1.jpg
+  position:   
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
