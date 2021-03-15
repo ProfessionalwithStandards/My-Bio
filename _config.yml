@@ -5,7 +5,7 @@ baseurl: "/My-Bio"
 title: My Bio
 email: Mysticism.occult@gmail.com
 description: "A brief about Hraday Vaidya"
-
+theme: jekyll-agency
 
 # Team names, titles and social links
 people:
