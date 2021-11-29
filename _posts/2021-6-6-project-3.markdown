@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2014-07-14
 img: startup-framework.png
-thumbnail: "https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true"
+thumbnail: (https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=tru)
 alt: image-alt
 project-date: June 2021
 
