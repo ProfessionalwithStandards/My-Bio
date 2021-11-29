@@ -114,20 +114,20 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-primary .badge {
-    color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    color: #272727;
+    background-color: #00000000;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #{{ site.data.template.color.primary }};
+    border-color: #272727;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #00000000;
 }
 
 .btn-xl:hover,
@@ -135,9 +135,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #{{ site.data.template.color.primary }};
+    border-color: #272727;
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #00000000;
 }
 
 .btn-xl:active,
@@ -161,13 +161,13 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: #272727;
+    background-color: #00000000;
 }
 
 .btn-xl .badge {
-    color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    color: #272727;
+    background-color: #00000000;
 }
 
 .navbar-default {
