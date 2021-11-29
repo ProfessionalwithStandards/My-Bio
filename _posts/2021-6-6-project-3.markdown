@@ -4,8 +4,8 @@ subtitle: App made in Kotlin
 layout: default
 modal-id: 3
 date: 2014-07-14
-img: ![][https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true]
-thumbnail: ![][https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true]
+img: ![]["https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true"]
+thumbnail: ![]["https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true"]
 alt: image-alt
 project-date: June 2021
 
