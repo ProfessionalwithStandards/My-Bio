@@ -1,0 +1,15 @@
+---
+title: Meme App
+subtitle: App made in Kotlin
+layout: default
+modal-id: 3
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: "https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true"
+alt: image-alt
+project-date: June 2021
+
+category: Mobile App
+description: App Made in Kotlin
+
+---
