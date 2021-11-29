@@ -122,8 +122,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-primary .badge {
-    color: #3ddc84;
-    background-color: #fff;
+    color: #272727;
+    background-color: #00000000;
 }
 
 .btn-xl {
@@ -143,9 +143,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #3ddc84;
+    border-color: #272727;
     color: #fff;
-    background-color: #3ddd90;
+    background-color: #00000000;
 }
 
 .btn-xl:active,
@@ -169,13 +169,13 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #3ddc84;
-    background-color: #3ddc84;
+    border-color: #272727;
+    background-color: #00000000;
 }
 
 .btn-xl .badge {
-    color: #3ddc84;
-    background-color: #fff;
+    color: #272727;
+    background-color: #00000000;
 }
 
 .navbar-default {
